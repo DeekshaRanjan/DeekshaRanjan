@@ -2,7 +2,7 @@
 <img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
  </p>
 
-<h1 align="center">Hi! I'm Nisha Sahu <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>  
+<h1 align="center">Hi! I'm Deeksha Ranjan <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>  
 
 
 
